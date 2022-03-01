@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To friends in Barbadoes, Virginia, Maryland, New-England, and elsewhere</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23164</idno>
+            <idno type="STC">Wing F1953</idno>
+            <idno type="STC">ESTC R39549</idno>
+            <idno type="EEBO-CITATION">18429067</idno>
+            <idno type="OCLC">ocm 18429067</idno>
+            <idno type="VID">154423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:63)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To friends in Barbadoes, Virginia, Maryland, New-England, and elsewhere</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 1 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>"London, 29th of the 9th month, 1666"--P. [3].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:154423:1"/>
+            <head>To Friends in <hi>Barbadoes, Virginia, Maryland, New-England,</hi> and elſ<g ref="char:EOLhyphen"/>where.</head>
+            <p>OH Friends, You all that have taſted of the Power of the LORD GOD, and of his Truth, that is pure, and doth not admit of any impurity nor change. O therefore the holy Truth mind, which will let nothing that is unholy live: for nothing that is un<g ref="char:EOLhyphen"/>holy can enter into the Kingdom of God; and no diſobedi<g ref="char:EOLhyphen"/>ence to Truth muſt enter into the Paradiſe of God: for the cauſe of diſobedience was Man and Woman put out of Para<g ref="char:EOLhyphen"/>diſe. And therefore all every-where mind the pure Power of the Lord God, and the Truth which firſt convinced you; and whatſoever is gotten up through the Reaſon, and your Eyes going from the Power of God, and that which doth con<g ref="char:EOLhyphen"/>vince you, let that be purged out of your hearts; if not, it will lift up your hearts to conſultations and ſubtilty, queſtion<g ref="char:EOLhyphen"/>ings, reaſonings and diſputes. Oh I feel too much that hath gotten up into the wrong underſtanding part, through which wrong liberty gets up, which will bring a plague in the heart, which is worſe than an outward Plague. O therefore conſider the Life and the Power of God hath not the ſupream in all; for I feel ſome minds, and ſome bodies, have let in that which hath defiled them, and doth defile them: O cleanſe, cleanſe, clean, and joyn to the pure immortal Power; for the Power of the LORD GOD will make room for it ſelf either in cleanſing, or in vomiting, or caſting out them; and that that doth not joyn to the Power of God, <hi>Sodom</hi> that whoriſh and adultrous ſpirit, it muſt to the Fire, and gainſaying <hi>Core</hi> into the Earth; and it will throw down that which hath been
+<pb n="2" facs="tcp:154423:2"/> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifted up; the Beeſom of the Lord is going forth to ſweep, the Candle of the Lord is lighted to ſearch every corner of your houſes; for the Juſt walks in the path which is a ſhining-light, which admits of no rubbiſh in his path. O come out of all theſe things which you have entertained in your minds, which you received not from them that came to miniſter unto you in the beginning. Oh dwell in the Power of the Lord God, for to keep you low; and O take heed of getting up into Conceitedneſs and the Air; and to ſet up that which per<g ref="char:EOLhyphen"/>tains not to the Kingdom of God, but to ſtrife, which never the Apoſtles, nor the Saints ſince, in the Power of God ſet up; for if you do, the Power of God will clenſe it and you all away. And O you that come to be Veſſels of Honour, and Veſſels of the Mercies of God, O have eſteem of your Bodies: for ſuch as defile their Bodies, are neither Veſſels of Honour, nor Veſ<g ref="char:EOLhyphen"/>ſels of the Mercies, but of Wrath and for the Wrath: therfore keep out Strife, keep out Fornication and the Adulterous Spi<g ref="char:EOLhyphen"/>rit; keep out Luſt of the Eye, Luſts of the Fleſh, and Pride of Life, which is not of the Father, that that which is of the Father may be received and have an entrance into every veſſel. O be not lifted up with a vain mind; and let <hi>Balaam</hi> be ſlain that erreth from the Spirit, and raiſeth ſtumbling-blocks; and ſuch as keep nor their firſt habitation in the Power of God and his Truth, become Enemies to ſuch as be Heirs of the King<g ref="char:EOLhyphen"/>dom and the Power of an endleſs life. Therefore all Friends and People, mind that which firſt convinced you, that Power of God which firſt awakened you, and ariſe and live in it, that all your eyes, minds and hearts may be kept ſingle and naked <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o God and one another, and uncloathed of all that which is contrary, and is got up ſince: for the Seed and the Life of <hi>Chriſt Jeſus</hi> reigns and rules, Glory to him for ever.</p>
+            <p>I have been uncapable to write or receive Writing a long time, or to ſpeak or be ſpoken to, but have been as a Man buried alive, and the Sepulcher watched as with a Sword and a Gun, for elſe I ſhould have writ to you before now; and
+<pb facs="tcp:154423:2"/> therefore, O dear Friends, give no occaſion of ſtumb<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> keep tender; for hardneſs of heart is worſe than an outwa<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> plague, for that brings deſtruction many wayes: and ſo grie<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not the Spirit in others, nor in your ſelves. And whatſoeve<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is decent and comely, follow; honeſt and of a good repor<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that makes for Peace, and not for Strife, under pretence<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Love; for that's not of God: for God who is Love, is<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Author of Strife and Confuſion, but of Peace. So I<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſire you to let Copies of this be ſent into <hi>Virginia, Marylan<gap reason="illegible: right margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and <hi>New-England,</hi> to be read amongſt Friends in all th<gap reason="illegible: right margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Meetings. Things are pretty well here, Friends being in Love and Unity, and the dread of the Lord God is amongſt us, who raigns and will raign.</p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>29th of the 9th Month, 1666.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
